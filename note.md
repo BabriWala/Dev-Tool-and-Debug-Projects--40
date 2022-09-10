@@ -24,3 +24,4 @@ type error
 Reference Error
 
 Ctrl Shift F for search
+Ctrl G
