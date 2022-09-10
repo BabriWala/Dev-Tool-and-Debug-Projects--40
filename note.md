@@ -22,3 +22,5 @@ conditional breakpoint
 syntax Error
 type error
 Reference Error
+
+Ctrl Shift F for search
